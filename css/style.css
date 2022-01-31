@@ -1,0 +1,27 @@
+h1 {
+	color: blue;
+}
+h2 {
+	color: rgb(3, 3, 182);
+}
+h3 {
+	color: darkmagenta;
+}
+.menu {
+	color: rgb(0, 0, 0);
+}
+.menu1{
+	color: burlywood;
+}
+.text {
+	color: rgba(12, 51, 130, 0.585);
+}
+a {
+	color: red;
+}
+a.text {
+	color: crimson;
+}
+p {
+	color: rgb(15, 179, 124);
+}
